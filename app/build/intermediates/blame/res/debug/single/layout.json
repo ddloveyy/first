@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\DY\\Desktop\\NetEase2\\PickDateTimeAndAddress\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_birth_year.xml",
+        "source": "C:\\Users\\DY\\Desktop\\NetEase2\\PickDateTimeAndAddress\\app\\src\\main\\res\\layout\\item_birth_year.xml"
+    },
+    {
+        "merged": "C:\\Users\\DY\\Desktop\\NetEase2\\PickDateTimeAndAddress\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_picker_bottom.xml",
+        "source": "C:\\Users\\DY\\Desktop\\NetEase2\\PickDateTimeAndAddress\\app\\src\\main\\res\\layout\\dialog_picker_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\DY\\Desktop\\NetEase2\\PickDateTimeAndAddress\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_picker_center.xml",
+        "source": "C:\\Users\\DY\\Desktop\\NetEase2\\PickDateTimeAndAddress\\app\\src\\main\\res\\layout\\dialog_picker_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\DY\\Desktop\\NetEase2\\PickDateTimeAndAddress\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\DY\\Desktop\\NetEase2\\PickDateTimeAndAddress\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

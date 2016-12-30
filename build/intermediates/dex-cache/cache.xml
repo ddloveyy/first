@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\DY\Desktop\NetEase2\PickDateTimeAndAddress\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\DY\Desktop\NetEase2\PickDateTimeAndAddress\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_5d36fe8c87ffa43cb5c2fb37fe6c8425ad1eca47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\DY\Desktop\NetEase2\PickDateTimeAndAddress\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_aa16b3cf885393ef74ba8407c65bcf20627dd05b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DY\Desktop\NetEase2\PickDateTimeAndAddress\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\DY\Desktop\NetEase2\PickDateTimeAndAddress\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_0ba15c5fe3c83a3659766ce2ef116f357a578eb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DY\Desktop\NetEase2\PickDateTimeAndAddress\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ae47bf184d077e2198add9a6ea9fe5406f8a163f">
+        <dex dex="C:\Users\DY\Desktop\NetEase2\PickDateTimeAndAddress\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_81557d285c42ff0f17d1cc98d9de907f18c7b3b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DY\Desktop\NetEase2\PickDateTimeAndAddress\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1f8236d453b73b81146bca7f4d620d2b74feda08">
+        <dex dex="C:\Users\DY\Desktop\NetEase2\PickDateTimeAndAddress\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0b94bc9a1e7fe2b6579a8ba760b172358e04985c\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,129 @@
+[
+    {
+        "outputFile": "C:\\Users\\DY\\Desktop\\NetEase2\\PickDateTimeAndAddress\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\DY\\Desktop\\NetEase2\\PickDateTimeAndAddress\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 48,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 52,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "C:\\Users\\DY\\Desktop\\NetEase2\\PickDateTimeAndAddress\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 52,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "C:\\Users\\DY\\Desktop\\NetEase2\\PickDateTimeAndAddress\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1280,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 667
+                },
+                "from": {
+                    "file": "C:\\Users\\DY\\Desktop\\NetEase2\\PickDateTimeAndAddress\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 672,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 827
+                },
+                "from": {
+                    "file": "C:\\Users\\DY\\Desktop\\NetEase2\\PickDateTimeAndAddress\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 531,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 832,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1337
+                },
+                "from": {
+                    "file": "C:\\Users\\DY\\Desktop\\NetEase2\\PickDateTimeAndAddress\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 716,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1229
+                    }
+                }
+            }
+        ]
+    }
+]

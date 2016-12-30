@@ -1,0 +1,7 @@
+#Sat Dec 24 16:33:11 CST 2016
+base.0=C\:\\Users\\DY\\Desktop\\NetEase2\\PickDateTimeAndAddress\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0b94bc9a1e7fe2b6579a8ba760b172358e04985c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\DY\\Desktop\\NetEase2\\PickDateTimeAndAddress\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_81557d285c42ff0f17d1cc98d9de907f18c7b3b3\\classes.dex
+base.1=C\:\\Users\\DY\\Desktop\\NetEase2\\PickDateTimeAndAddress\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_81557d285c42ff0f17d1cc98d9de907f18c7b3b3
+file.0=C\:\\Users\\DY\\Desktop\\NetEase2\\PickDateTimeAndAddress\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0b94bc9a1e7fe2b6579a8ba760b172358e04985c\\classes.dex
