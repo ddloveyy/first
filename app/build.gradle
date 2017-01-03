@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.ywl5320.pickaddress"
-        minSdkVersion 8
+        minSdkVersion 9
         targetSdkVersion 21
     }
 
@@ -20,4 +20,6 @@ android {
 
 dependencies {
     compile 'com.android.support:support-v4:21.0.3'
+    compile 'com.jakewharton:butterknife:7.0.0'
+//    compile 'com.jakewharton:butterknife-compiler:8.0.0'
 }
